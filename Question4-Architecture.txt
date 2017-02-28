@@ -1,0 +1,10 @@
+/*
+
+IV. Which architecture would you use for the required task below (Currency Converter)? Why?
+
+*/
+
+
+Answer:
+
+For the creation of the Currency Converter, I would use an MVC architecture. It keeps the code readable, separates components for easier debugging and testing, and is quicker to implement.
